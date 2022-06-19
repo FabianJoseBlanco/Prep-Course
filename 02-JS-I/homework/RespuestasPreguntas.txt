@@ -1,0 +1,12 @@
+
+Resolucion Homework
+
+Instrucciones
+
+1.En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables: son aquellas formar de guardar un datos para ser utlizados en diferentes partes del proyecto
+Strings: Son datos tipo texto que se encierran entre comillas.
+Funciones (argumentos, return):Son objetos en el cual realiza un procedimiento que se pueden invocar-llamar en la parte del proyecto que se nesesite.
+Declaraciones if: Son operadores que permiten la validar una funcion si es verdadero o falso y realizar una accion luego de la validacion.
+Valores booleanos (true, false): Es un tipo de dato utilizado para hacer validaciones de Falso y Verdadero
