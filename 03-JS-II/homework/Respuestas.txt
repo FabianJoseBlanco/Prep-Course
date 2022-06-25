@@ -1,0 +1,13 @@
+Resolucion Homework
+
+Instrucciones
+
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for = son expresiones que nos permiten a relizacion de bucles y esto ayuda a a la no repeticion de codigo.
+
+&& = es un operador logico que es utilizado como necesitamos comparar nos expresiones y sera verdadera si las dos son verdaderas.
+
+|| =es un operador logico que es utilizado como necesitamos comparar nos expresiones y sera falsa solo cuando las dos expresiones sean falsas.
+
+! =  es un operador logico que nos permite negar una expresion si una expresion en teoria es verdadera con este operador la expresion quedaria como falsa.
