@@ -11,3 +11,18 @@ for = son expresiones que nos permiten a relizacion de bucles y esto ayuda a a l
 || =es un operador logico que es utilizado como necesitamos comparar nos expresiones y sera falsa solo cuando las dos expresiones sean falsas.
 
 ! =  es un operador logico que nos permite negar una expresion si una expresion en teoria es verdadera con este operador la expresion quedaria como falsa.
+
+
+
+
+if (numero === 0 || numero === 1 ) {
+      return false;
+      } 
+        
+      
+      for (var i = 0; i <= numero; i++) {
+              if (numero % i === 0) {
+                  return false;              
+              }else{
+                return true;
+              }
